@@ -1,0 +1,41 @@
+# "Ninguno de los tres éramos restauranteros. Esa buena ignorancia hacía que hiciéramos las cosas diferentes."
+
+## Estefany Gómez creció pesando ganado en una finca del Valle del Cauca. Hoy lidera 320 personas, 18 puntos y la cadena de comida saludable que está llenando el vacío que nadie en América Latina se había atrevido a llenar.
+
+---
+
+Estefany Gómez es caleña, viene de una familia ganadera del Valle del Cauca donde la ponían a pesar ganado y a marcar reses desde chiquita, y su papá nunca le dijo que había algo que no pudiera hacer por ser mujer. Eso suena anecdótico hasta que entiendes que esa misma mentalidad es la que hoy mueve a Bacu, la cadena de comida balanceada que en menos de cuatro años llegó a 18 puntos de operación en tres ciudades, más de 80 mil órdenes mensuales y un equipo de 320 personas cuyo promedio de edad es 27 años.
+
+Antes de fundar Bacu, Estefany trabajó en Rappi en el equipo de restaurantes, donde terminó liderando la operación de cocinas ocultas y marcas digitales que ayudaban a restaurantes a expandirse desde México hasta Argentina. Ahí aprendió algo que después se convertiría en la tesis de su compañía: los restaurantes que más crecían eran los que tenían una experiencia omnicanal sólida, presencia física y digital integrada. Pero había una categoría donde eso simplemente no existía. En comida balanceada no había una sola cadena estándar y escalable en toda la región. Había lo que Estefany llama "local heroes", pequeños restaurantes que funcionaban bien en su zona pero que no tenían estandarización, ni rapidez, ni la capacidad de replicar la experiencia en otra ciudad.
+
+El problema además era personal. Cuando viajaba por trabajo a México, Brasil o Argentina, se encontraba con una dicotomía que conoce cualquier persona que haya tenido un presupuesto de viáticos limitado y poco tiempo para comer: si querías algo rápido y barato, te ibas a comida chatarra; si querías algo nutritivo, te salías del presupuesto. Las dos opciones eran insostenibles a largo plazo. Bacu nació de esa frustración concreta, de la necesidad de ofrecer comida balanceada que fuera conveniente, rápida, asequible y pensada para una generación (millennials, centennials, Gen Z) que vive contra el reloj pero quiere sentirse bien.
+
+### Comida preparada en menos de cuatro minutos
+
+Una de las primeras decisiones que tomaron fue una que la industria consideraba imposible: entregar comida balanceada, recién preparada, en menos de cuatro minutos de cocina para que al cliente le llegara en menos de 13 minutos a su casa. Los restaurantes tradicionales trataban al comensal digital como un cliente de segunda categoría (que se espere el de domicilios, que primero atiendo al que está sentado acá). Estefany venía de Rappi y sabía que eso era absurdo: es el mismo comensal, solo que está viendo Netflix en su sala. Bacu fue el primer restaurante de toda la región en entregar platos balanceados por debajo de 13 minutos. Hoy cientos de restaurantes entregan de manera rápida, pero cuando Bacu lo hizo por primera vez la industria lo consideraba impensable.
+
+Esa mentalidad de cuestionar lo que la industria da por sentado es lo que Estefany llama "buena ignorancia". Ninguno de los tres cofundadores era restaurantero. Venían de tecnología y operaciones, no de gastronomía. Eso los hizo preguntar cosas que alguien con 20 años en el negocio de restaurantes jamás preguntaría: ¿por qué el chef decide el menú y no el consumidor? ¿Por qué la innovación de platos es aleatoria y no tiene un ciclo estructurado? ¿Por qué no se mide retención y frecuencia de un plato como se mide el engagement de una feature de producto?
+
+### El consumidor manda, el chef ejecuta
+
+En la industria tradicional de restaurantes el proceso funciona así: el chef se levanta un día queriendo hacer una ensalada de cangrejo porque es su plato favorito, la pone en el menú, y si al cliente no le gusta, mala suerte. Bacu lo hace al revés. Tienen un flywheel de innovación que se activa cada tres meses: tres meses previos de preparación, análisis de categorías (desayunos, almuerzos, cenas, ensaladas, sopas), alineación con cadena de suministro y líneas de producción, y cada plato nuevo que entra tiene que convertirse mínimo en top 10 de ventas. Si un plato no rota, se mata. Si el consumidor dice que algo no funciona, se itera o se saca. Son obsesivos con la data de retención, frecuencia y cohortes, pero con una base de ADN de marca e intuición que impide meter categorías que no vayan con el propósito.
+
+Tienen un club llamado "Club Bacanes" que ya supera las 35 mil personas y funciona como su principal audiencia de análisis. Eso les permite saber hacia dónde direccionar la innovación con un nivel de certeza que un restaurante tradicional, romantizado con la visión del chef-artista, simplemente no tiene.
+
+### 320 personas, 80% en su primer empleo
+
+Bacu tiene 320 empleados. El 80% de ellos está en su primer empleo formal. El 56% son mujeres. Y las historias de crecimiento interno son de las cosas que más energía le dan a Estefany: una persona que entró como steward y hoy es primer cocinero, una mesera que ahora es administradora de punto, un auxiliar de cocina que estudió ingeniería de sistemas y hoy trabaja en el equipo de tecnología. Cuando abrieron Medellín, varias personas ascendieron y empezaron a liderar una ciudad entera.
+
+Estefany tiene una frase que define su filosofía de liderazgo: "No podemos estar liderando desde el penthouse. Nos toca bajar, darnos las manos, entender el problema y a partir de eso plantear soluciones." En una compañía que es mayoritariamente operativa (cocinas, puntos de venta, logística), ese liderazgo por ejemplo marca la diferencia entre una cultura que ejecuta y una que solo planifica.
+
+Sobre reclutamiento, Estefany dice algo que suena contraintuitivo en una industria donde retener talento es obsesión: sueña con que las personas que trabajan en Bacu salgan después a montar sus propias compañías. Ya han salido dos personas a emprender, cada una en su área, y eso los pone orgullosos. "Lo que queremos formar son personas de cambio y personas que generen revolución. Que sean disruptivas, que sean rebeldes, que sigan soñando grande."
+
+### Medellín: chocolo, guandola y mucho respeto
+
+Abrieron Medellín el 20 de octubre con una cocina experimental y el 1 de diciembre con el primer punto físico. Ninguno de los founders era paisa, así que entraron con respeto y con las antenas puestas: escuchando al consumidor, adaptando vocabulario del menú (choclo se dice chocolo en Medellín), creando productos locales como una guandola al estilo Bacu porque en Medellín la gente ama el agua panela. Son detalles sencillos, pensados, y que hacen que la marca sea acogida localmente. El pareto de ventas entre Bogotá y Medellín resultó ser muy parecido, con ajustes menores como un poquito menos de picante en ciertos platos.
+
+### La pregunta del VC
+
+Convencer a un fondo de venture capital de invertir en una cadena de restaurantes cuando la tesis dominante en la región está orientada hacia software es uno de los retos grandes que Bacu ha enfrentado. La respuesta de Estefany es pragmática: si bien Bacu no le vende tecnología al cliente, la tecnología, la data y la automatización de procesos internos les permiten ir a una velocidad que la industria tradicional de restaurantes no puede seguir. Tienen apoyo de VCs que ya han invertido en compañías similares en otras regiones y que entienden que una empresa con la ejecución de Bacu puede tener la escalabilidad de una compañía de hipercrecimiento aunque su producto sea un bowl de proteína con quinoa.
+
+Bacu recibe mensajes todos los días: un diabético que no podía comer en ningún lado y ahora solo come en Bacu, una mamá ejecutiva que pide Bacu por la noche para sus hijos porque no sabe freír un huevo y quiere que coman proteína de verdad. El sueño es llevar Bacu a las principales ciudades de América Latina, construir un ecosistema que gire en torno al balance (que no es solo alimentación, sino hábitos sostenibles), y seguir demostrando que una cadena de comida balanceada puede ser tan escalable como cualquier SaaS, siempre que la ejecuten personas que no le tienen miedo a cuestionar absolutamente todo.
