@@ -88,6 +88,8 @@ Usa siempre español salvo conceptos hiperestablecidos del mundo startup (produc
 - "la verdad real", "de verdad", "realmente" como relleno
 - "el movimiento que acelera"
 - "me voló la cabeza", "me vuela la cabeza", "mind-blowing" ❌ — cliché que no aporta nada. Presentá el dato y dejá que el lector decida si le vuela la cabeza o no.
+- "Y acá viene algo que cualquier X debería Y" ❌ — le dice al lector qué sentir y cómo recibir la información. Presentá el dato directamente sin editorializar su importancia.
+- "X toca un tema que rara vez se discute" / "X aborda algo que pocos mencionan" ❌ — ceremonia innecesaria antes de presentar la idea. Ve directo al punto: "Según X", "Para X", y luego el contenido.
 **Si querés decir que algo cambió algo, especificá:** ingresos, número de ciudades, márgenes, estructura organizacional, etc.
 **Otros patrones prohibidos:**
 - Clichés motivacionales genéricos: "dar el 110%", "salir de la zona de confort" (solo si lo contextualizás con ejemplo concreto)
